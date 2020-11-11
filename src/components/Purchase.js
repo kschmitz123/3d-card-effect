@@ -1,7 +1,7 @@
 import styled from "styled-components/macro";
 
 const Purchase = styled.div`
-  margin-top: 5rem;
+  margin-top: 2rem;
   transition: all 0.75s ease-out;
 
   button {
