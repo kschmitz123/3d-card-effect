@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "styled-components/macro";
 
 const Card = styled.div`
   transform-style: preserve-3d;
